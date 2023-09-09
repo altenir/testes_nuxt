@@ -1,6 +1,9 @@
 <template>
   <div>
-    <h1>PRODUTOS</h1>
+    <h1 class="text-3xl font-bold underline">
+      PRODUTOS
+    </h1>
+
     <br>
 
     <div
